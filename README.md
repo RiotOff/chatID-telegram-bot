@@ -5,9 +5,9 @@
 💬 **ChatID** - New modern comfort bot to know your ID with perfect design. With them anyone can get his ID, its very simple code, very simple bot, very simple life - will be after start using our bot!
 ## ℹ Information
 <br />
-📚 **Python Library**: https://pypi.org/project/pyTelegramBotAPI/
+📚 **Python Library** : https://pypi.org/project/pyTelegramBotAPI/
 <br />
-🔧 **Library install**: ``pip install pyTelegramBotAPI``
+🔧 **Library install** : ``pip install pyTelegramBotAPI``
 
 
 Telegram-Bot that created with help by Clyde (Discord AI)
