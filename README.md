@@ -2,9 +2,8 @@
 
 # 💬 ChatID Open-Source project
 # 💻 Modern era of evolutions
-
+💬 **ChatID** - New modern comfort bot to know your ID with perfect design. With them anyone can get his ID, its very simple code, very simple bot, very simple life - will be after start using our bot!
 ## ℹ Information
-💬 **ChatID** - New modern comfort bot to know your ID with perfect design.
 <br />
 📚 **Python Library**: https://pypi.org/project/pyTelegramBotAPI/
 <br />
