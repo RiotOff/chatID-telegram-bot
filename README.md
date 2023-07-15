@@ -1,8 +1,9 @@
 [![Header](https://cdn.discordapp.com/attachments/1119628609649397893/1129718438873534492/image.png)](https://t.me/x_chatID_bot)
 
 # 💬 ChatID Open-Source project
-## 💻 Modern era of evolutions
+# 💻 Modern era of evolutions
 
+## ℹ Information
 💬 **ChatID** - New modern comfort bot to know your ID with perfect design.
 <br />
 📚 **Python Library**: https://pypi.org/project/pyTelegramBotAPI/
